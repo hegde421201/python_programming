@@ -8,8 +8,8 @@ Enjoy programming!!
 
 ## Arrays
 
-1. Contains Duplicate [217 Leetcode]((https://leetcode.com/problems/contains-duplicate/))
-                      [Solution] 
+1. Contains Duplicate [217 Leetcode](https://leetcode.com/problems/contains-duplicate/)
+                      
 
 2. 
 
