@@ -2,10 +2,16 @@ from typing import List
 
 
 def containsDuplicate(nums: List[int]) -> bool:
+
+    # Step 1: We define a hsh set whose characteristic is to hold unique elements only
     nums_set = set()
+
+    # We iterate over each element in the list and check whether that element exists in the set already. If yes,
+    # then we have found the list which contains duplicate elements.
     for n in nums:
         if n in nums_set:
             return True
+        # We add the element to the set if it is not present already
         nums_set.add(n)
     return False
 
@@ -35,5 +41,8 @@ Constraints:
 
 1 <= nums.length <= 10^5
 -109 <= nums[i] <= 10^9
+
+
+
 
 '''
