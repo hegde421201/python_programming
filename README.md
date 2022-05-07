@@ -8,7 +8,7 @@ Enjoy programming!!
 
 ## Arrays
 
-1. Contains Duplicate [217 Leetcode](https://leetcode.com/problems/contains-duplicate/)
+1. Contains Duplicate [217 Leetcode](https://leetcode.com/problems/contains-duplicate/)<br/>
                       [Solution](https://github.com/hegde421201/python_programming/blob/master/basics/arrays/duplicates217.py)                      
 
  
