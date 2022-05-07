@@ -15,6 +15,8 @@ def containsDuplicate(nums: List[int]) -> bool:
         nums_set.add(n)
     return False
 
+# Time complexity is O(n)
+# Space complexity O(n)
 
 '''
 https://leetcode.com/problems/contains-duplicate/
