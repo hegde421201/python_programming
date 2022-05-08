@@ -28,3 +28,8 @@ from typing import List
 
 a = [0] * 26
 print(a)
+
+
+b = [[]] * 25
+print(b)
+

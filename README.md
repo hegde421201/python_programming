@@ -6,7 +6,7 @@ The pythonic solutions to the  code are explained as well.
 Enjoy programming!!
 
 
-## Arrays and Hashing (Problems Solved so far: 3)
+## Arrays and Hashing (Problems Solved so far: 5)
 
 1. Contains Duplicate [217 Leetcode](https://leetcode.com/problems/contains-duplicate/)<br/>
                       [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/duplicates217.py)                      
@@ -19,4 +19,7 @@ Enjoy programming!!
 
 4. Group Anagrams [49 Leetcode](https://leetcode.com/problems/group-anagrams/)<br/>
    [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/GroupAnagrams49.py) 
+
+5. Top K Frequent Elements [347 Leetcode](https://leetcode.com/problems/top-k-frequent-elements/)<br/>
+   [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/TopK347.py) 
 
