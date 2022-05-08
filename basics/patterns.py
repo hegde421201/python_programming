@@ -10,9 +10,6 @@ for i in [113,5,53,56,2,89,-1]:
     print("Largest loop: ",largest)
 print("Largest ",largest)
 
-'''
-from typing import List
-
 fruit = 'watermelon'
 
 length = len(fruit)
@@ -25,3 +22,9 @@ print(fruit[:])
 print('melon' in fruit)
 
 print(fruit.find('a'))
+
+'''
+from typing import List
+
+a = [0] * 26
+print(a)

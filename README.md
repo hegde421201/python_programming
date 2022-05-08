@@ -17,5 +17,6 @@ Enjoy programming!!
 3. Two Sum [1 Leetcode](https://leetcode.com/problems/two-sum/)<br/>
    [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/TwoSum1.py)                      
 
-
+4. Group Anagrams [49 Leetcode](https://leetcode.com/problems/group-anagrams/)<br/>
+   [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/GroupAnagrams49.py) 
 
