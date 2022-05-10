@@ -27,9 +27,11 @@ print(fruit.find('a'))
 from typing import List
 
 a = [0] * 26
-print(a)
+# print(a)
 
+b = [[]] * 5
+# print(b)
 
-b = [[]] * 25
-print(b)
+for k in range(len(b) - 1,-1,-1):
+    print("\t"+str(k))
 

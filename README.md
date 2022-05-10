@@ -6,7 +6,7 @@ The pythonic solutions to the  code are explained as well.
 Enjoy programming!!
 
 
-## Arrays and Hashing (Problems Solved so far: 5)
+## Arrays and Hashing (Problems Solved so far: 6)
 
 1. Contains Duplicate [217 Leetcode](https://leetcode.com/problems/contains-duplicate/)<br/>
                       [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/duplicates217.py)                      
@@ -23,3 +23,5 @@ Enjoy programming!!
 5. Top K Frequent Elements [347 Leetcode](https://leetcode.com/problems/top-k-frequent-elements/)<br/>
    [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/TopK347.py) 
 
+6. Product of Array Except Self [238 Leetcode](https://leetcode.com/problems/product-of-array-except-self/)<br/>
+   [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/ArrayProduct238.py) 
