@@ -25,3 +25,8 @@ Enjoy programming!!
 
 6. Product of Array Except Self [238 Leetcode](https://leetcode.com/problems/product-of-array-except-self/)<br/>
    [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/ArrayProduct238.py) 
+
+## Left-Right Pointer Problems (Problems Solved so far: 1)
+
+7. Valid Palindrome [125 Leetcode](https://leetcode.com/problems/valid-palindrome/)<br/>
+   [Solution](https://github.com/hegde421201/python_programming/blob/master/arrays/ArrayProduct238.py) 
