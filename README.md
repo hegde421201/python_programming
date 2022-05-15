@@ -34,7 +34,14 @@ Enjoy programming!!
 8. Two Sum II - Input Array Is Sorted [167 Leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)<br/>
    [Solution](https://github.com/hegde421201/python_programming/blob/master/twopointers/TwoSum167.py) 
 
-## Bit Manipulation (Problems solved so far : 1)
+## Bit Manipulation (Problems solved so far : 3)
 
    Counting Bits [338 Leetcode](https://leetcode.com/problems/counting-bits/)<br/>
+   [Solution](https://github.com/hegde421201/python_programming/blob/master/bitmanipulation/CountBits338.py) 
+
+   Number of 1 Bits [191 Leetcode](https://leetcode.com/problems/number-of-1-bits/)<br/>
    [Solution](https://github.com/hegde421201/python_programming/blob/master/bitmanipulation/Number1Bits191.py) 
+
+   Single Number [136 Leetcode](https://leetcode.com/problems/single-number/)<br/>
+   [Solution](https://github.com/hegde421201/python_programming/blob/master/bitmanipulation/SingleNumber136.py) 
+   
